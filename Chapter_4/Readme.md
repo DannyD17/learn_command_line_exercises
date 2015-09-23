@@ -1,9 +1,13 @@
 > Can you make a temp directory?
 
 $ pwd
+
 /Users/Danny/workspace/davinci_coders_t3_2015/homework/learn_command_line_exercises/Chapter_4
+
 $ mkdir tmp
+
 $ ls
+
 Readme.md tmp
 
 > Can you make a log directory in your class directory?
