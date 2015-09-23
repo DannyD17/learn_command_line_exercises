@@ -14,4 +14,4 @@ Readme.md tmp
 
 $ pwd
 /Users/Danny
-$ mkdir workspace/davinci_coders_t3_2015/building_the_toolbelt_t3_2015/log
+$ mkdir workspace/davinci_coders_t3_2015/log
