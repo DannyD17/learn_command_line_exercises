@@ -19,3 +19,8 @@ typing pwd users/Danny
 
 Before changing directories, I ran the command in /Users/Danny/workspace/davinci_coders_t3_2015
 I found this by using the command pwd
+
+> How would you find your path with a graphical file browser?
+
+On a mac you would open up the finder, under the view tab, select show path bar.  As you change directories 
+on the graphical browser it will show you the path of directories and subdirectories you are in.
