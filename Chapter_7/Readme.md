@@ -15,7 +15,7 @@ Do more steps
 > Daniels-MacBook-Pro:alex $ cd ..
 
 > Daniels-MacBook-Pro:joe $ ls
-alex
+\nalex
 
 > Daniels-MacBook-Pro:joe $ rmdir alex/
 
