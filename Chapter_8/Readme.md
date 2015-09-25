@@ -6,7 +6,8 @@ used later and temperally changes your working directory.  An example of this wo
 
 This will store the current directory (In this example I am working in Chapter_8 directory) and move you to alex.
 
-The command popd will take the last directory that was pushed and moves pops it off the list and changes to that directory.
+The command popd will take the last directory that was pushed and pops it off the list and changes the present working
+ directory to that directory (Here it would move us from the directory "alex" back to "Chapter_8").
 
 
 Do More
