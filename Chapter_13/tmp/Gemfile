@@ -1,0 +1,13 @@
+This is some random text that I pulled from my blog.
+
+                      For our class we looked at Git and its 3 main components.  But before we look at that, what is Git?
+                          Git is a revision control system which allows its users to keep track of changes made to files over time.
+                                                                  It keeps logs of changes made and reasons why and allows developers to easily share changes.
+
+                                      When working with git there are 3 main areas that a file or files may be in.  The working directory, the staging area,
+                            and the repository.  The working directory is where a version of the file is worked on or modified.
+                              Once work on the file completed it can be placed into the staging area.
+                                                          This is where the files are added to the stage to be committed.
+                                                                                    Multiple files and changes can be added to the stage.  Once ready you can commit the files to the repository.
+                                                            Once committed, git takes the edited files and stores them in the fit directory.
+                                Changes are logged and files are then available for checkout at a later time.
