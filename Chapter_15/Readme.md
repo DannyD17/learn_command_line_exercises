@@ -15,3 +15,4 @@ What is on the lefthand side of the < will recieve input from what is on the rig
 For the > symble, whatever the output from the left side of the > will write to the file on the right hand side
 
 If you want to append a file use the >> symble.  This will take whatever output from the left side of the >> and write it to the file on the right side.
+
