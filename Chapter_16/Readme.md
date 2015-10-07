@@ -1,7 +1,13 @@
 Can you output all the txt files in this directory?
+
+>You can output the text with either the command cat or less:
     
-    Daniels-MacBook-Pro:tmp $ ls *.txt
-    text0.txt text1.txt text2.txt text3.txt text4.txt
+    Daniels-MacBook-Pro:Chapter_16 $ less *.txt
+    
+    Daniels-MacBook-Pro:Chapter_16 $ cat *.txt
+    Hello
+    Hello
+    This is some text
 
 Show me the content of the text files in slash temp.
 
