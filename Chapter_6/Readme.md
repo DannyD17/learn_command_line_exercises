@@ -5,25 +5,30 @@ stuff
 
 Can you show me what files are in that directory?
 
-> ls stuff
-things
+    ls stuff
+    things
 
 What files are in your home directory?
 
-> Applications     Downloads        Music            RubymineProjects
-  Desktop          Library          Pictures         gitignore_global
-  Documents        Movies           Public           workspace
+    Daniels-MacBook-Pro:~ $ pwd
+    /Users/Danny
+
+    Daniels-MacBook-Pro:~ $ ls
+
+    Applications     Downloads        Music            RubymineProjects
+    Desktop          Library          Pictures         gitignore_global
+    Documents        Movies           Public           workspace
 
 What's in slash temp?
 
-> ls /tmp
-KSDownloadAction.o7ZhlfzX5r
-KSInstallAction.wvMUei2Lb9
-KSOutOfProcessFetcher.501.HVXI9pQwBk_bgiVJaTNhiQNhqxc=
-KSOutOfProcessFetcher.501.I5ci1K_TwCwqo1sKvc0siaBbJTw=
-KSOutOfProcessFetcher.TO8cbaivyv
-com.apple.launchd.Gf5gmGoD6u
-com.apple.launchd.lFoOHh6HPz
+    ls /tmp
+    KSDownloadAction.o7ZhlfzX5r
+    KSInstallAction.wvMUei2Lb9
+    KSOutOfProcessFetcher.501.HVXI9pQwBk_bgiVJaTNhiQNhqxc=
+    KSOutOfProcessFetcher.501.I5ci1K_TwCwqo1sKvc0siaBbJTw=
+    KSOutOfProcessFetcher.TO8cbaivyv
+    com.apple.launchd.Gf5gmGoD6u
+    com.apple.launchd.lFoOHh6HPz
 
 What does ls -lR do?
 
